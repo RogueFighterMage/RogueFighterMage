@@ -1,7 +1,3 @@
-# Rogue Fighter Mage
-## in: the Goblin Caves
-
-Control a party of three characters. You must kill the Goblin King! [7DRL]
 ```
 __________                          /\              
 \______   \ ____   ____  __ __   ___)/              
@@ -22,25 +18,35 @@ __________                          /\
         \____|__  (____  /\___  / \___  >           
                 \/     \//_____/      \/   v1.1
                 
+       in: the Goblin Caves
+       
+       
 Copyright (c) 2017, mathpunk
 
 All rights reserved.
 ```
+You control a party of three characters in their quest to kill the Goblin King. Meet Rogue, Fighter and Mage. Each of them has strengths you'll have to play to and weaknesses you'll have to work around. The Goblin Caves are treacherous: full of secrets, traps, monsters and powerful magic [7DRL].
 
-## 7DRL
+**Features:**
+
+- Simultaneous multi-character party system.
+- Gain priority to react instantly to your enemy's spells. You can win magic duels, or lay down covering fire.
+- Enjoy all the traditional roguelike goodies: press w to wield your sword.
+
+**7DRL**
 
 This game was submitted to the 7DRL 2017 challenge.
 
-## Downloads
+**Downloads**
 
 - [MacOS .app bundle](https://github.com/RogueFighterMage/RogueFighterMage/blob/master/RogueFighterMage-mac-1.1c.zip?raw=true)
 - [Linux binary](https://github.com/RogueFighterMage/RogueFighterMage/blob/master/RogueFighterMage-linux-1.1c.zip?raw=true)
 
-## Player's Manual
+**Player's Manual**
 
 With mild spoilers: [http://forums.roguetemple.com/index.php?topic=5331.msg49177#msg49177](http://forums.roguetemple.com/index.php?topic=5331.msg49177#msg49177)
 
-## Running Instructions
+**Running Instructions**
 
 - The Linux binary version of RogueFighterMage is dynamically linked against sdl2, sdl2-ttf and sdl2-image. If you are using Linux you must have these libraries installed to play RogueFighterMage. To install these libraries for Debian 8, use the command "sudo apt-get install libsdl2-2.0-0 libsdl2-image-2.0-0 libsdl2-ttf-2.0-0". For installation on other Linux distributions, check out https://www.libsdl.org/ https://www.libsdl.org/projects/SDL_ttf/ and https://www.libsdl.org/projects/SDL_image/.
 
@@ -48,6 +54,6 @@ With mild spoilers: [http://forums.roguetemple.com/index.php?topic=5331.msg49177
 
 - The [7DRL version](https://github.com/RogueFighterMage/RogueFighterMage/blob/master/RogueFighterMage-1.1.zip?raw=true) is a macOS executable, tested on a circa 2014 MacBook Air with Sierra 10.12.2. It has some issues on higher resolution monitors, and also must be run on the command line with the current directory set to the same directory that the executable is in. The version 1.1c builds are the same as the 7DRL version but with some display issues fixed, and support for more platforms.
 
-Direct questions, comments and bug reports to [mathpunk@gmail.com](mailto://mathpunk@gmail.com).
+Send questions, comments and bug reports to [mathpunk@gmail.com](mailto://mathpunk@gmail.com).
 
 Special thanks to Levi.
