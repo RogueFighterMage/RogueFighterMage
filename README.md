@@ -1,4 +1,4 @@
-IMPORTANT: Press TAB to change characters. Press SPACE to end your turn. Press ENTER to resolve pending events. You can shoot (press x), cast spells (press c) and read schools (press r) even if there are pending events.
+IMPORTANT: Press TAB to change characters. Press SPACE to end your turn. Press ENTER to resolve pending events. You can shoot (press x), cast spells (press c) and read scrolls (press r) even if there are pending events.
 
 ```
 __________                          /\              
