@@ -1,3 +1,5 @@
+RFM IS MODAL: PRESS TAB TO CHANGE CHARACTERS. PRESS SPACE TO END YOUR TURN. PRESS ENTER TO RESOLVE PENDING EVENTS. YOU CAN SHOOT AND CAST SPELLS WHILE THERE ARE STILL PENDING EVENTS.
+
 ```
 __________                          /\              
 \______   \ ____   ____  __ __   ___)/              
