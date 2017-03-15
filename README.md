@@ -51,11 +51,11 @@ With mild spoilers: [http://forums.roguetemple.com/index.php?topic=5331.msg49177
 
 **Running Instructions**
 
-- The Linux binary version of RogueFighterMage is dynamically linked against sdl2, sdl2-ttf and sdl2-image. If you are using Linux you must have these libraries installed to play RogueFighterMage. To install these libraries for Debian 8, use the command "sudo apt-get install libsdl2-2.0-0 libsdl2-image-2.0-0 libsdl2-ttf-2.0-0". For installation on other Linux distributions, check out https://www.libsdl.org/ https://www.libsdl.org/projects/SDL_ttf/ and https://www.libsdl.org/projects/SDL_image/. It was compiled by clang version 3.5.0-10 linked against gcc 4.9's libstdc++ and tested on Debian 8, i686 running on a VirtualBox (version 5.0.28).
+- The Windows executable was compiled using clang 3.9.1 targeting i686-w64-windows-gnu. DLLs are included for mingw, and SDL 2.0.5. It was tested on Windows 7 and Windows 10 on an Intel Xeon E5-2676 processor.
 
 - The macOS .app bundle was compiled using Apple LLVM clang version 800.0.42.1, and codesigned. It was tested in a circa 2015 MacBook Air running macOS Sierra 10.12.2 and on a circa 2015 iMac running Sierra 10.12.3.
 
-- The Windows executable was compiled using clang 3.9.1 targeting i686-w64-windows-gnu. DLLs are included for mingw, and SDL 2.0.5. It was tested on Windows 7 and Windows 10 on an Intel Xeon E5-2676 processor.
+- The Linux binary version of RogueFighterMage is dynamically linked against sdl2, sdl2-ttf and sdl2-image. If you are using Linux you must have these libraries installed to play RogueFighterMage. To install these libraries for Debian 8, use the command "sudo apt-get install libsdl2-2.0-0 libsdl2-image-2.0-0 libsdl2-ttf-2.0-0". For installation on other Linux distributions, check out https://www.libsdl.org/ https://www.libsdl.org/projects/SDL_ttf/ and https://www.libsdl.org/projects/SDL_image/. It was compiled by clang version 3.5.0-10 linked against gcc 4.9's libstdc++ and tested on Debian 8, i686 running on a VirtualBox (version 5.0.28).
 
 - The [7DRL version](https://github.com/RogueFighterMage/RogueFighterMage/blob/50eb315ec5cc3f64afa3df7798d5ef64a66a3093/RogueFighterMage-1.1.zip) is a macOS executable, tested on a circa 2014 MacBook Air with Sierra 10.12.2. It has some issues on higher resolution monitors, and also must be run on the command line with the current directory set to the same directory that the executable is in. The version 1.1c builds are the same as the 7DRL version but with some display issues fixed, and support for more platforms.
 
