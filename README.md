@@ -55,7 +55,7 @@ With mild spoilers: [http://forums.roguetemple.com/index.php?topic=5331.msg49177
 
 - RogueFighterMage was compiled by clang version 3.5.0-10 linked against gcc 4.9's libstdc++ and tested on Debian 8, i686 running on a VirtualBox (version 5.0.28).
 
-- The [7DRL version](https://github.com/RogueFighterMage/RogueFighterMage/blob/master/RogueFighterMage-1.1.zip?raw=true) is a macOS executable, tested on a circa 2014 MacBook Air with Sierra 10.12.2. It has some issues on higher resolution monitors, and also must be run on the command line with the current directory set to the same directory that the executable is in. The version 1.1c builds are the same as the 7DRL version but with some display issues fixed, and support for more platforms.
+- The [7DRL version](https://github.com/RogueFighterMage/RogueFighterMage/blob/50eb315ec5cc3f64afa3df7798d5ef64a66a3093/RogueFighterMage-1.1.zip) is a macOS executable, tested on a circa 2014 MacBook Air with Sierra 10.12.2. It has some issues on higher resolution monitors, and also must be run on the command line with the current directory set to the same directory that the executable is in. The version 1.1c builds are the same as the 7DRL version but with some display issues fixed, and support for more platforms.
 
 Send questions, comments and bug reports to [mathpunk@gmail.com](mailto://mathpunk@gmail.com).
 
