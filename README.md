@@ -1,4 +1,4 @@
-RFM IS MODAL: PRESS TAB TO CHANGE CHARACTERS. PRESS SPACE TO END YOUR TURN. PRESS ENTER TO RESOLVE PENDING EVENTS. YOU CAN SHOOT AND CAST SPELLS WHILE THERE ARE STILL PENDING EVENTS.
+IMPORTANT: Press TAB to change characters. Press SPACE to end your turn. Press ENTER to resolve pending events. You can shoot (press x), cast spells (press c) and read schools (press r) even if there are pending events.
 
 ```
 __________                          /\              
