@@ -62,3 +62,4 @@ With mild spoilers: [http://forums.roguetemple.com/index.php?topic=5331.msg49177
 Send questions, comments and bug reports to [mathpunk@gmail.com](mailto://mathpunk@gmail.com).
 
 Special thanks to Levi.
+
