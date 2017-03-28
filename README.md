@@ -33,7 +33,7 @@ You control a party of three characters in their quest to kill the Goblin King. 
 
 - Simultaneous multi-character party system.
 - Gain priority to react instantly to your enemy's spells. You can win magic duels, or lay down covering fire.
-- Enjoy all the traditional roguelike goodies: press w to wield your sword.
+- Enjoy all the traditional roguelike goodies: press `w` to wield your sword.
 
 **7DRL**
 
