@@ -1,4 +1,4 @@
-IMPORTANT: Press `TAB` to change characters. Press `SPACE` to end your turn. Press `ENTER` to resolve pending events. You can shoot (press `x`), cast spells (press `c`) and read scrolls (press `r`) and change characters even if there are pending events.
+IMPORTANT: Press `TAB` to change characters. Press `SPACE` to end your turn. Press `ENTER` to resolve pending events. You can shoot (press `x`), cast spells (press `c`) and read scrolls (press `r`) and change characters even if there are pending events.  Hold `?` for help. Normally, you can't move around enemies that you are fighting: you have to retreat by moving orthogonally away from them (there are some exceptions).
 
 ```
 __________                          /\              
