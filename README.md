@@ -41,7 +41,7 @@ This game was submitted to the 7DRL 2017 challenge.
 
 **Downloads**
 
-- [MacOS .app bundle](https://github.com/RogueFighterMage/RogueFighterMage/blob/master/RogueFighterMage-mac-1.1c.zip?raw=true)
+- [MacOS signed .app bundle](https://github.com/RogueFighterMage/RogueFighterMage/blob/master/RogueFighterMage-mac-1.1c.zip?raw=true)
 - [Linux binary](https://github.com/RogueFighterMage/RogueFighterMage/blob/master/RogueFighterMage-linux-1.1c.zip?raw=true)
 - [Windows executable](https://github.com/RogueFighterMage/RogueFighterMage/blob/master/RogueFighterMage-windows-1.1c.zip?raw=true)
 
